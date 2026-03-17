@@ -144,7 +144,7 @@ print(liste)
 ### Prerequisites
 - Python 3.8+
 - PyTorch 2.0+
-- CUDA 11.8+ (for GPU training, optional)
+- CUDA 11.8+ (for GPU training, optional) we use Google colab
 
 ### Clone Repository
 ```bash
